@@ -1,0 +1,7 @@
+altair
+matplotlib
+numpy
+paretoset
+pandas
+pyomo
+seaborn
