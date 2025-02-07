@@ -17,7 +17,7 @@ To use the model, two main requirements exist:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### Breakdown of functions is coming soon
 ### Roadmap - Include and point to
