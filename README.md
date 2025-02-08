@@ -1,4 +1,3 @@
-
 # res_bess v0.0.1
 
 This repository contains a (public) Python-based model for simulating and sizing Energy Storage Systems (ESS), connected with a Renewable Energy Source behind-the-meter.
@@ -19,5 +18,6 @@ To use the model, two main requirements exist:
 pip install -r requirements.txt
 ```
 
-### Breakdown of functions is coming soon
+## ToDo's
+### Breakdown of functions coming soon
 ### Roadmap - Include and point to
